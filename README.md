@@ -91,7 +91,7 @@ This method is primarily meant for debugging purposes.
 
 ## How does this compare to alternatives like Datejs?
 
-[Datejs](http://www.datejs.com) is a date manipulation library, and is not built for handling user input. That means it can only parse very specific dates or times. If you are progrematically passing values or have a dedicated input field for times and a separate one for dates, then you can use Datejs. If you want to let users enter dates, you need Sherlock.
+[Datejs](http://www.datejs.com) is a date manipulation library, and is not built for handling user input. That means it can only parse very specific dates or times. If you are programatically passing values or have a dedicated input field for times and a separate one for dates, then you can use Datejs. If you want to let users enter dates, you need Sherlock.
 
 Oh, and Mr. Holmes could take on a ninja any day.
 
